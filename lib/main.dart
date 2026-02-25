@@ -39,7 +39,7 @@ class MainApp extends StatelessWidget {
                 
               CustomCard(
                 title: "hola", 
-                subtitle: "gorditos", 
+                subtitle: "fdsfgasfgfafdsfdsfgafgasdf", 
                 icon: Icons.abc),
                 
               CustomCard(
