@@ -17,7 +17,7 @@ class MainApp extends StatelessWidget {
             onPressed: () {},
             icon: Icon(Icons.add_ic_call_outlined),
           ),
-          title: const Text('AppBar Demo'),
+          title: const Text('sadsafdsferdfgdfgfdgdsfdswse Demo'),
           actions: <Widget>[
             IconButton(
               onPressed: () {},
